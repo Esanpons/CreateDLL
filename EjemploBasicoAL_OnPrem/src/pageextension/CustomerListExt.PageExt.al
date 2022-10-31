@@ -2,13 +2,13 @@ dotnet
 {
     assembly(EjemploBasicoDLL)
     {
-
         type(EjemploBasicoDLL.Class.PruebasDLL; PruebasDLL)
         {
 
         }
     }
 }
+
 
 pageextension 70100 "CustomerListExt" extends "Customer List"
 {
