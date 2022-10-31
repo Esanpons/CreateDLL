@@ -3,13 +3,13 @@
   "name": "Ejemplo Basico DLL BC OnPrem",
   "publisher": "Esteve Sanpons Carballares",
   "version": "1.0.0.0",
-  "brief": "ControlAddIn Basico BC",
-  "description": "ControlAddIn Basico BC",
+  "brief": "Ejemplo Basico DLL BC OnPrem",
+  "description": "Ejemplo Basico DLL BC OnPrem",
   "privacyStatement": "https://github.com/Esanpons",
   "EULA": "https://github.com/Esanpons",
   "help": "https://github.com/Esanpons",
   "url": "https://github.com/Esanpons",
-  "contextSensitiveHelpUrl":  "https://github.com/Esanpons",
+  "contextSensitiveHelpUrl": "https://github.com/Esanpons",
   "logo": "",
   "dependencies": [],
   "screenshots": [],
@@ -25,15 +25,14 @@
     "includeSourceInSymbolFile": false,
     "allowDebugging": false,
     "allowDownloadingSource": false
-},
-"supportedLocales": [
+  },
+  "supportedLocales": [
     "en-US",
     "es-ES"
   ],
   "features": [
     "TranslationFile"
   ],
-  
-"runtime": "9.0",
-"target": "OnPrem"
+  "runtime": "9.0",
+  "target": "OnPrem"
 }
